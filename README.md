@@ -119,7 +119,7 @@ data/
 |-----------------|----------------------------|
 | Dataset Split   | 80% Training / 20% Validation |
 | Models Used     | Random Forest, Decision Tree, KNN |
-| Accuracy        | ~58.60%                    |
+| Accuracy        | ~88.60%                    |
 | Top Correct Predictions | Saved in artifacts/predictions_rf.csv |
 | Confusion Matrix | Saved in artifacts/confusion_matrix.png |
 | ROC Curve       | Saved in artifacts/roc_curve.png |
@@ -153,3 +153,4 @@ For detailed references on WSN security, DoS attacks, and ML techniques, refer t
 
 
 **Structure:**
+
