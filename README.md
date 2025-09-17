@@ -150,7 +150,3 @@ For detailed references on WSN security, DoS attacks, and ML techniques, refer t
 **Email:** saiganesh407@gmail.com  
 **Affiliation:** VIT-AP University, Amaravati  
 
-
-
-**Structure:**
-
